@@ -25,3 +25,23 @@ of code
 
 Here is how you make [a link ](https://www.wikipedia.org/).
 
+# fanzhihao
+
+### Geography
+I live in the city of China.
+
+### Reading
+
+Three of my favorite books are:
+- *Mindstorms* by Seymour Papert
+- *Welcome to Monkey House* By kurt Vonegut
+- *Persepolis* by Marjane Satrapi
+
+### Food
+
+Last night I dreamt about eating in these restaurants:
+
+1. www
+2. ddd
+3. ggg
+ 
